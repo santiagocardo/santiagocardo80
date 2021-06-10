@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Santiago Cardona
-- 👀 I’m interested in Web Development. Specially backend using Elixir/Phoenix and Node.js, but I also enjoy doing frontend with React.js
+- 👀 I’m interested in Web Development. Especially backend using Elixir/Phoenix and Node.js, but I also enjoy doing frontend with React.js
 - 🌱 I’m currently focusing on Functional Programming in general and OTP applications using Elixir
 - 💞️ I’m looking to collaborate on StartUp ideas, Distributed Systems or Scalable Applications
 - 📝 Find some of my blog posts on https://dev.to/santiagocardo
